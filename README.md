@@ -69,6 +69,5 @@ I am open to collaborating on interesting projects and contributing to the tech 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jones-ogidiagba-tobi/)
 - Email: [Your Email Address](ogidiagbaj4@gmail.com)
 
-[Optional: Include any additional sections or information that is relevant to your work and goals.]
 
 
