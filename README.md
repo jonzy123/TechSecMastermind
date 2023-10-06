@@ -20,7 +20,7 @@ Welcome to my GitHub repository! This space showcases my expertise and contribut
 
 ## Project Showcase
 ### Project 1: Cybersecurity Framework Development
-- [Project Details](Project 1)
+- [Project Details](Project-1)
 - [Technologies Used](link-to-technologies)
 
 ### Project 2: Secure Software Development - Thonic Insurance Software (THIS)
